@@ -197,6 +197,10 @@ git branch branch-name
 
 ```
 git checkout branch-name
+git status
+git commit -m "message of the commit "
+git checkout main
+git merge 2024-branch-name
 ```
 
 
