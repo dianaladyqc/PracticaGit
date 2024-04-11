@@ -184,3 +184,20 @@ You must run this command in the directory where your local project is located
 git remote add origin git@github.com:user_name_github/repository_name
 ```
 
+
+## Branch
+
+### create branch
+
+```
+git branch branch-name
+```
+
+### change branch
+
+```
+git checkout branch-name
+```
+
+
+
